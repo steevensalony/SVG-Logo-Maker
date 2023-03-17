@@ -1,7 +1,7 @@
-const shapes = require('../lib/shape')
-const circles = require('../lib/circle')
-const triangles = require('../lib/triangle')
-const squares = require('../lib/square')
+const shapes = require('../library/shape.j')
+const circles = require('../library/circle.js')
+const triangles = require('../library/triangle.js')
+const squares = require('../library/square.js')
 
 function generateSVG(data) {
   let newStr = '';
