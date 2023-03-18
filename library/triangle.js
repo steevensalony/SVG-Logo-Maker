@@ -14,7 +14,7 @@ setShapeColor(color) {
   }
 
   renderText () {
-    return `<text x="100" y="75" font-weight="bold" fill="${this.textColor}">${this.text}</text>\n</svg>`
+    return `<text x="150" y="130" text-anchor="middle" font-size="35" font-weight="bold" fill="${this.textColor}">${this.text}</text>\n</svg>`
   }
 }
 

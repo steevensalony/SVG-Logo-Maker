@@ -6,7 +6,7 @@ class Shape {
   }
 
   render() {
-    return `<svg width="200" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg">`
+    return `<svg width="300" height="350" version="1.1" xmlns="http://www.w3.org/2000/svg">`
   }
 }
 
