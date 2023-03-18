@@ -1,6 +1,7 @@
 # Weather Dashboard
 
-![](https://github.com/steevensalony/weather-dashboard/blob/main/assets/images/Screenshot%202023-02-24%20at%208.42.57%20PM.png)
+Walkthrough video link
+https://drive.google.com/file/d/1-WkYrZGkN2qsEURLB0VAcI28q_jxCniR/view
 
 ## Description
 
@@ -10,7 +11,7 @@ This was a challenge given by our bootcamp instructors
 
 ## Instalation
 
-To install this code, simply click on the url to my repository [https://github.com/steevensalony/weather-dashboard] and clone the ssh key to your local machine. 
+To install this code, simply click on the url to my repository [https://github.com/steevensalony/SVG-Logo-Maker] and clone the ssh key to your local machine. 
 
 ## Usage
 
