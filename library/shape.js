@@ -1,3 +1,4 @@
+// Class with all necessary attributes for all other shape classes
 class Shape {
   constructor(text, textColor, shapeColor) {
     this.text = text;

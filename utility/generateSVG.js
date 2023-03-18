@@ -3,11 +3,13 @@ const circles = require('../library/circle.js')
 const triangles = require('../library/triangle.js')
 const squares = require('../library/square.js')
 
+// function to generate data
 function generateSVG(data) {
   let newShapes = '';
   const newShape = new shapes;
   newShapes = newShape.render();
 
+  // Conditional statements for each shape and attributes
   if (data.shape === 'Circle') {
     const newCircle =  new circles(data.text, data.textColor, data.shapeColor);
     newShapes += `\n${newCircle.renderShape()}\n${newCircle.renderText()}`

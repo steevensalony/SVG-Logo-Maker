@@ -1,6 +1,6 @@
 const circles = require('../library/circle.js');
 
-// Testing for shape color
+// Testing for circle shape color
 describe('Circle', () => {
   describe('render', () => {
     it('should return the shape color for the circle shape that the user provides', () => {

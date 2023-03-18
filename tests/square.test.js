@@ -1,6 +1,6 @@
 const squares = require('../library/square.js');
 
-// Testing for shape color
+// Testing for square shape color
 describe('Square', () => {
   describe('render', () => {
     it('should return the shape color for the square shape that the user provides', () => {
