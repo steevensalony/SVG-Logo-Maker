@@ -3,7 +3,9 @@ const fs = require('fs');
 const shapes = require('./library/shape.js');
 const generateSVG = require('./utility/generateSVG.js');
 
+// questions for user to answer to render logo
 const questions = [
+  // Asking for text
   {
     type: 'input',
     name: 'text',
@@ -18,6 +20,7 @@ const questions = [
     }
   },
   {
+    // Asking for text color
     type: 'input',
     name: 'textColor',
     message: 'Please enter the color you would like your text to be',
@@ -31,6 +34,7 @@ const questions = [
     }
   },
   {
+    // Asking for shape
     type: 'list',
     name: 'shape',
     message: 'Please choose a shape from the list',
@@ -45,6 +49,7 @@ const questions = [
     }
   },
   {
+    // Asking for shape color
     type: 'inpur',
     name: 'shapeColor',
     message: 'Please choose a color for your chosen shape',

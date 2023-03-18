@@ -1,6 +1,6 @@
 const triangles = require('../library/triangle.js');
 
-// Testing for shape color
+// Testing for triangle shape color
 describe('Triangle', () => {
   describe('render', () => {
     it('should return the shape color for the triangle shape that the user provides', () => {

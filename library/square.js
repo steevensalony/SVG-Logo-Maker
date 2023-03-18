@@ -1,10 +1,12 @@
 const Shapes =  require('../library/shape.js');
 
+// creating square class with same attributes as shape class
 class Square extends Shapes {
   constructor(text, textColor, shapeColor) {
     super(text, textColor, shapeColor)
   }
 
+  // function to test shape color
 setShapeColor(color) {
   this.shapeColor = color;
 }

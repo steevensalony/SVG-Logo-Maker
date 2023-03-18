@@ -1,5 +1,6 @@
 const shapes = require('../library/shape.js')
 
+// Testing to see if it's returning the right tag
 describe('Shape', () => {
   describe('render', () => {
     it('should return the SVG tag', () => {
