@@ -1,4 +1,4 @@
-# Weather Dashboard
+# SVG Logo Maker
 
 Walkthrough video link
 https://drive.google.com/file/d/1-WkYrZGkN2qsEURLB0VAcI28q_jxCniR/view
